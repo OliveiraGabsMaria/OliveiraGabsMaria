@@ -12,11 +12,11 @@
  <a href="https://www.instagram.com/gabirosioliver/">
     <img align="left" width="80px" src="https://i.ibb.co/qkGSp1D/instagram.png" alt="instagram" style="vertical-align:top;">
   </a> 
-  <a href="www.linkedin.com/in/gabriellymooliveira">
-    <img width="80px" src="https://i.ibb.co/RyZx12b/linkedin.png" alt="linkedin" style="vertical-align:top;">
+  <a href="https://www.linkedin.com/in/gabriellymooliveira/">
+    <img align="left" width="80px" src="https://i.ibb.co/RyZx12b/linkedin.png" alt="linkedin" style="vertical-align:top;">
   </a>
   <a href="https://www.instagram.com/ecrivain.alone/">
-    <img align="left" width="80px" src="https://i.ibb.co/qkGSp1D/instagram.png" alt="instagram" style="vertical-align:top;">
+    <img width="80px" src="https://i.ibb.co/qkGSp1D/instagram.png" alt="instagram" style="vertical-align:top;">
   </a> 
 </div>
 
