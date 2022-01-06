@@ -1,6 +1,6 @@
 ![Inserir um título](https://user-images.githubusercontent.com/93413622/148422272-2d21eb15-2a46-468e-bc81-1dd1fe11bbce.png)
 
-<img align="right" width="250px" style="margin-top:-20px" src= ![WhatsApp_Video_2022-01-06_at_15_31_48_AdobeCreativeCloudExpress](https://user-images.githubusercontent.com/93413622/148433355-97933fc5-db4d-4e01-ae9f-e2879a7d5d21.gif)>
+<img align="right" ![WhatsApp_Video_2022-01-06_at_15_31_48_AdobeCreativeCloudExpress](https://user-images.githubusercontent.com/93413622/148433355-97933fc5-db4d-4e01-ae9f-e2879a7d5d21.gif)>
 
 
 </br>
