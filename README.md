@@ -42,8 +42,8 @@
 <code><img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
 <code><img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
 <code><img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" title = "PHOTOSHOP"/></code>
-<code><img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" title = "PHOTOSHOP"/>
-<code><img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" title = "PYTHON"/>
+<code><img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" title = "PYTHON"/></code>
+
 
 </br>
 </br>
