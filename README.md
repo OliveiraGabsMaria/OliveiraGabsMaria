@@ -48,7 +48,7 @@
 </br>
 </br>
 <div display="inline-block">
- <p align="left"> 🌱 Atualmente, estudante da Generation</p>
+ <p align="left"> 🌱 Atualmente, técnica de sistemas na CI&T</p>
  <p align="left"> ⭐ Pronomes: Ela/Dela</p>
  <p align="left"> 🌑 Fisurada por Astronomia, Poesia e Livros, inclusive compartilho algumas das minhas criações no <a href="https://www.instagram.com/ecrivain.alone/">Instagram</a>. Me siga para conhecer um pouco mais de mim!</p>
  <p align="left"> 🌻 Tenho o humor completamente quebrado, adoro imitar o Cebolinha, sou muito empatica e adoro conhecer novas pessoas❤️.</p>
