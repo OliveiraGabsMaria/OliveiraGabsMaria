@@ -22,7 +22,7 @@
 
 ## Ʋɱ pσʋcσ sσbɾe ɱiɱ
 
--Tenho 20 anos, moro em Osasco/SP. Sou alguém que adora aprender, apaixonada por livros, programação, café, e me perder na imaginação. Sou iniciante na área de programação mas sempre interessada em aprender muito mais, e poder contribuir em fazer a minha diferença no mundo.💙
+-Tenho 21 anos, moro em Osasco/SP. Sou alguém que adora aprender, apaixonada por livros, programação, café, e me perder na imaginação. Sou iniciante na área de programação mas sempre interessada em aprender muito mais, e poder contribuir em fazer a minha diferença no mundo.💙
 
 <p align="center">
   <img src="https://c.tenor.com/VfBAVSmKaMoAAAAM/cebolinha-esse%C3%A9o-meu-jeitinho-cebolinha.gif">
