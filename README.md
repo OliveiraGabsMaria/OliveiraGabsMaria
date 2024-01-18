@@ -22,7 +22,7 @@
 
 ## Ʋɱ pσʋcσ sσbɾe ɱiɱ
 
--Tenho 21 anos, moro em Osasco/SP. Sou alguém que adora aprender, apaixonada por livros, programação, café, e me perder na imaginação. Sou iniciante na área de programação mas sempre interessada em aprender muito mais, e poder contribuir em fazer a minha diferença no mundo.💙
+-Tenho 22 anos, moro em Osasco/SP. Sou alguém que adora aprender, apaixonada por livros, programação, café, e me perder na imaginação. Sou iniciante na área de programação mas sempre interessada em aprender muito mais, e poder contribuir em fazer a minha diferença no mundo.💙
 
 <p align="center">
   <img src="https://c.tenor.com/VfBAVSmKaMoAAAAM/cebolinha-esse%C3%A9o-meu-jeitinho-cebolinha.gif">
@@ -43,7 +43,7 @@
 </br>
 </br>
 <div display="inline-block">
- <p align="left"> 🌱 Atualmente, técnica de sistemas na CI&T</p>
+ <p align="left"> 🌱 Atualmente, seguindo formação de tecnologa em Jogos Digitais</p>
  <p align="left"> ⭐ Pronomes: Ela/Dela</p>
  <p align="left"> 🌑 Fisurada por Astronomia, Poesia e Livros, inclusive compartilho algumas das minhas criações no <a href="https://www.instagram.com/ecrivain.alone/">Instagram</a>. Me siga para conhecer um pouco mais de mim!</p>
  <p align="left"> 🌻 Tenho o humor completamente quebrado, adoro imitar o Cebolinha, sou muito empatica e adoro conhecer novas pessoas❤️.</p>
